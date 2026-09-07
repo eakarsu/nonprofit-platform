@@ -1,0 +1,8 @@
+{
+  "id": "nonprofit-platform",
+  "port": 46040,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:47.045Z"
+}

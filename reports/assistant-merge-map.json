@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "deadlines",
+      "disaster-declaration-registry",
+      "site-damage-inventory",
+      "force-account-labor-calculation",
+      "equipment-rate-calculation",
+      "insurance-reduction-coordination",
+      "project-worksheet-preparation",
+      "environmental-historic-preservation",
+      "obligation-draw-tracking",
+      "award-and-amendment-library",
+      "expenditure-ingestion-and-mapping",
+      "program-income-accounting",
+      "milestone-and-deliverable-tracking",
+      "drawdown-calculation",
+      "agency-query-and-correction-workflow",
+      "award-agreement-library",
+      "indirect-rate-agreement",
+      "capital-expenditure-exclusion",
+      "subaward-threshold-exclusion",
+      "participant-support-exclusion",
+      "provisional-to-final-adjustment",
+      "carryforward-calculation",
+      "sponsor-adjustment-request",
+      "cash-recovery-tracking",
+      "award-rate-analytics",
+      "submit",
+      "reviewer-assignment",
+      "ledger-transaction-ingestion",
+      "allocability-assessment",
+      "pi-approval-workflow",
+      "journal-entry-generation",
+      "department-award-analytics",
+      "prayer-guidance",
+      "member-engagement",
+      "event-planner",
+      "sermon-qa-bot",
+      "volunteer-burnout-alert",
+      "prayer-categorization",
+      "blockchain-backed-ledger",
+      "peer-review-certification",
+      "tools-impact-report",
+      "advanced-tools",
+      "donation-appeal",
+      "grant-assistant",
+      "community-assessment",
+      "food-package-builder",
+      "impact",
+      "donor-ltv",
+      "major-donor-cultivation",
+      "peer-to-peer-fundraising-team-builder",
+      "impact-metrics",
+      "funder",
+      "improve",
+      "summary",
+      "match",
+      "portfolio",
+      "funder-relationship-crm-with-ai-recommen",
+      "sms",
+      "photo",
+      "triage",
+      "grant",
+      "needs",
+      "resource",
+      "volunteer-profile-crud-backend-only-via-ai",
+      "tools-training-plan",
+      "claims",
+      "submit-claim",
+      "claim-status-chatbot"
+    ],
+    "ai": true,
+    "representativeId": "deadlines",
+    "description": "One assistant for 68 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "deadlines",
+        "title": "Deadlines & reminders",
+        "originalPath": "/features/deadlines"
+      },
+      {
+        "id": "disaster-declaration-registry",
+        "title": "Disaster declaration registry",
+        "originalPath": "/features/disaster-declaration-registry"
+      },
+      {
+        "id": "site-damage-inventory",
+        "title": "Site damage inventory",
+        "originalPath": "/features/site-damage-inventory"
+      },
+      {
+        "id": "force-account-labor-calculation",
+        "title": "Force-account labor calculation",
+        "originalPath": "/features/force-account-labor-calculation"
+      },
+      {
+        "id": "equipment-rate-calculation",
+        "title": "Equipment rate calculation",
+        "originalPath": "/features/equipment-rate-calculation"
+      },
+      {
+        "id": "insurance-reduction-coordination",
+        "title": "Insurance reduction coordination",
+        "originalPath": "/features/insurance-reduction-coordination"
+      },
+      {
+        "id": "project-worksheet-preparation",
+        "title": "Project worksheet preparation",
+        "originalPath": "/features/project-worksheet-preparation"
+      },
+      {
+        "id": "environmental-historic-preservation",
+        "title": "Environmental historic preservation",
+        "originalPath": "/features/environmental-historic-preservation"
+      },
+      {
+        "id": "obligation-draw-tracking",
+        "title": "Obligation draw tracking",
+        "originalPath": "/features/obligation-draw-tracking"
+      },
+      {
+        "id": "award-and-amendment-library",
+        "title": "Award and amendment library",
+        "originalPath": "/features/award-and-amendment-library"
+      },
+      {
+        "id": "expenditure-ingestion-and-mapping",
+        "title": "Expenditure ingestion and mapping",
+        "originalPath": "/features/expenditure-ingestion-and-mapping"
+      },
+      {
+        "id": "program-income-accounting",
+        "title": "Program income accounting",
+        "originalPath": "/features/program-income-accounting"
+      },
+      {
+        "id": "milestone-and-deliverable-tracking",
+        "title": "Milestone and deliverable tracking",
+        "originalPath": "/features/milestone-and-deliverable-tracking"
+      },
+      {
+        "id": "drawdown-calculation",
+        "title": "Drawdown calculation",
+        "originalPath": "/features/drawdown-calculation"
+      },
+      {
+        "id": "agency-query-and-correction-workflow",
+        "title": "Agency query and correction workflow",
+        "originalPath": "/features/agency-query-and-correction-workflow"
+      },
+      {
+        "id": "award-agreement-library",
+        "title": "Award agreement library",
+        "originalPath": "/features/award-agreement-library"
+      },
+      {
+        "id": "indirect-rate-agreement",
+        "title": "Indirect rate agreement",
+        "originalPath": "/features/indirect-rate-agreement"
+      },
+      {
+        "id": "capital-expenditure-exclusion",
+        "title": "Capital expenditure exclusion",
+        "originalPath": "/features/capital-expenditure-exclusion"
+      },
+      {
+        "id": "subaward-threshold-exclusion",
+        "title": "Subaward threshold exclusion",
+        "originalPath": "/features/subaward-threshold-exclusion"
+      },
+      {
+        "id": "participant-support-exclusion",
+        "title": "Participant support exclusion",
+        "originalPath": "/features/participant-support-exclusion"
+      },
+      {
+        "id": "provisional-to-final-adjustment",
+        "title": "Provisional-to-final adjustment",
+        "originalPath": "/features/provisional-to-final-adjustment"
+      },
+      {
+        "id": "carryforward-calculation",
+        "title": "Carryforward calculation",
+        "originalPath": "/features/carryforward-calculation"
+      },
+      {
+        "id": "sponsor-adjustment-request",
+        "title": "Sponsor adjustment request",
+        "originalPath": "/features/sponsor-adjustment-request"
+      },
+      {
+        "id": "cash-recovery-tracking",
+        "title": "Cash recovery tracking",
+        "originalPath": "/features/cash-recovery-tracking"
+      },
+      {
+        "id": "award-rate-analytics",
+        "title": "Award rate analytics",
+        "originalPath": "/features/award-rate-analytics"
+      },
+      {
+        "id": "submit",
+        "title": "Review & Submit",
+        "originalPath": "/features/submit"
+      },
+      {
+        "id": "reviewer-assignment",
+        "title": "Reviewer",
+        "originalPath": "/features/reviewer-assignment"
+      },
+      {
+        "id": "ledger-transaction-ingestion",
+        "title": "Ledger transaction ingestion",
+        "originalPath": "/features/ledger-transaction-ingestion"
+      },
+      {
+        "id": "allocability-assessment",
+        "title": "Allocability assessment",
+        "originalPath": "/features/allocability-assessment"
+      },
+      {
+        "id": "pi-approval-workflow",
+        "title": "PI approval workflow",
+        "originalPath": "/features/pi-approval-workflow"
+      },
+      {
+        "id": "journal-entry-generation",
+        "title": "Journal entry generation",
+        "originalPath": "/features/journal-entry-generation"
+      },
+      {
+        "id": "department-award-analytics",
+        "title": "Department award analytics",
+        "originalPath": "/features/department-award-analytics"
+      },
+      {
+        "id": "prayer-guidance",
+        "title": "Prayer Guidance",
+        "originalPath": "/features/prayer-guidance"
+      },
+      {
+        "id": "member-engagement",
+        "title": "Member Engagement",
+        "originalPath": "/features/member-engagement"
+      },
+      {
+        "id": "event-planner",
+        "title": "Event Planner",
+        "originalPath": "/features/event-planner"
+      },
+      {
+        "id": "sermon-qa-bot",
+        "title": "Sermon QA Bot",
+        "originalPath": "/features/sermon-qa-bot"
+      },
+      {
+        "id": "volunteer-burnout-alert",
+        "title": "Volunteer Burnout Alert",
+        "originalPath": "/features/volunteer-burnout-alert"
+      },
+      {
+        "id": "prayer-categorization",
+        "title": "Prayer Categorization",
+        "originalPath": "/features/prayer-categorization"
+      },
+      {
+        "id": "blockchain-backed-ledger",
+        "title": "Blockchain backed ledger",
+        "originalPath": "/features/blockchain-backed-ledger"
+      },
+      {
+        "id": "peer-review-certification",
+        "title": "Peer review certification",
+        "originalPath": "/features/peer-review-certification"
+      },
+      {
+        "id": "tools-impact-report",
+        "title": "Impact report",
+        "originalPath": "/features/tools-impact-report"
+      },
+      {
+        "id": "advanced-tools",
+        "title": "AI Advanced",
+        "originalPath": "/features/advanced-tools"
+      },
+      {
+        "id": "donation-appeal",
+        "title": "Donation Appeal Generator",
+        "originalPath": "/features/donation-appeal"
+      },
+      {
+        "id": "grant-assistant",
+        "title": "Grant Application Assistant",
+        "originalPath": "/features/grant-assistant"
+      },
+      {
+        "id": "community-assessment",
+        "title": "Community Need Assessment",
+        "originalPath": "/features/community-assessment"
+      },
+      {
+        "id": "food-package-builder",
+        "title": "Food Package Builder",
+        "originalPath": "/features/food-package-builder"
+      },
+      {
+        "id": "impact",
+        "title": "Impact Reports",
+        "originalPath": "/features/impact"
+      },
+      {
+        "id": "donor-ltv",
+        "title": "Donor Lifetime Value",
+        "originalPath": "/features/donor-ltv"
+      },
+      {
+        "id": "major-donor-cultivation",
+        "title": "Major Donor Cultivation",
+        "originalPath": "/features/major-donor-cultivation"
+      },
+      {
+        "id": "peer-to-peer-fundraising-team-builder",
+        "title": "peer to peer fundraising team builder",
+        "originalPath": "/features/peer-to-peer-fundraising-team-builder"
+      },
+      {
+        "id": "impact-metrics",
+        "title": "Impact Measurer",
+        "originalPath": "/features/impact-metrics"
+      },
+      {
+        "id": "funder",
+        "title": "Funder Relations",
+        "originalPath": "/features/funder"
+      },
+      {
+        "id": "improve",
+        "title": "Improve Text",
+        "originalPath": "/features/improve"
+      },
+      {
+        "id": "summary",
+        "title": "Executive Summary",
+        "originalPath": "/features/summary"
+      },
+      {
+        "id": "match",
+        "title": "Match Grants",
+        "originalPath": "/features/match"
+      },
+      {
+        "id": "portfolio",
+        "title": "Portfolio",
+        "originalPath": "/features/portfolio"
+      },
+      {
+        "id": "funder-relationship-crm-with-ai-recommen",
+        "title": "funder relationship crm with ai recommen",
+        "originalPath": "/features/funder-relationship-crm-with-ai-recommen"
+      },
+      {
+        "id": "sms",
+        "title": "Bulk SMS",
+        "originalPath": "/features/sms"
+      },
+      {
+        "id": "photo",
+        "title": "Field Photos",
+        "originalPath": "/features/photo"
+      },
+      {
+        "id": "triage",
+        "title": "Case Triage",
+        "originalPath": "/features/triage"
+      },
+      {
+        "id": "grant",
+        "title": "Grant Report",
+        "originalPath": "/features/grant"
+      },
+      {
+        "id": "needs",
+        "title": "Beneficiary Needs",
+        "originalPath": "/features/needs"
+      },
+      {
+        "id": "resource",
+        "title": "Resource Allocation",
+        "originalPath": "/features/resource"
+      },
+      {
+        "id": "volunteer-profile-crud-backend-only-via-ai",
+        "title": "volunteer profile crud backend only via ai",
+        "originalPath": "/features/volunteer-profile-crud-backend-only-via-ai"
+      },
+      {
+        "id": "tools-training-plan",
+        "title": "Training plan",
+        "originalPath": "/features/tools-training-plan"
+      },
+      {
+        "id": "claims",
+        "title": "Claims",
+        "originalPath": "/features/claims"
+      },
+      {
+        "id": "submit-claim",
+        "title": "Submit claim",
+        "originalPath": "/features/submit-claim"
+      },
+      {
+        "id": "claim-status-chatbot",
+        "title": "Claim status chatbot",
+        "originalPath": "/features/claim-status-chatbot"
+      }
+    ]
+  },
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "documentation-request-workflow",
+      "draft-section",
+      "go-no-go",
+      "section-draft",
+      "claim-audit",
+      "emails",
+      "funders",
+      "outline",
+      "generate",
+      "review",
+      "peer-proposal-analyzer-extracting-succes",
+      "translate",
+      "notifications-subsystem-sms-email-reminders"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 16 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "documentation-request-workflow",
+        "title": "Documentation request workflow",
+        "originalPath": "/features/documentation-request-workflow"
+      },
+      {
+        "id": "draft-section",
+        "title": "Draft Section",
+        "originalPath": "/features/draft-section"
+      },
+      {
+        "id": "go-no-go",
+        "title": "Draft: Go / No-Go Analyst",
+        "originalPath": "/features/go-no-go"
+      },
+      {
+        "id": "section-draft",
+        "title": "Draft: Section Drafter",
+        "originalPath": "/features/section-draft"
+      },
+      {
+        "id": "claim-audit",
+        "title": "Draft: Claim Auditor",
+        "originalPath": "/features/claim-audit"
+      },
+      {
+        "id": "emails",
+        "title": "Email Generator",
+        "originalPath": "/features/emails"
+      },
+      {
+        "id": "funders",
+        "title": "Funder Research",
+        "originalPath": "/features/funders"
+      },
+      {
+        "id": "outline",
+        "title": "Proposal Outline",
+        "originalPath": "/features/outline"
+      },
+      {
+        "id": "generate",
+        "title": "Generate Proposal",
+        "originalPath": "/features/generate"
+      },
+      {
+        "id": "review",
+        "title": "Review Proposal",
+        "originalPath": "/features/review"
+      },
+      {
+        "id": "peer-proposal-analyzer-extracting-succes",
+        "title": "peer proposal analyzer extracting succes",
+        "originalPath": "/features/peer-proposal-analyzer-extracting-succes"
+      },
+      {
+        "id": "translate",
+        "title": "Translate",
+        "originalPath": "/features/translate"
+      },
+      {
+        "id": "notifications-subsystem-sms-email-reminders",
+        "title": "notifications subsystem sms email reminders",
+        "originalPath": "/features/notifications-subsystem-sms-email-reminders"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "applicant-eligibility",
+      "procurement-evidence",
+      "closeout-audit-package",
+      "procurement-compliance-evidence",
+      "award-ceiling-control",
+      "claim-validation",
+      "original-charge-validation",
+      "benefit-to-award-evidence",
+      "ninety-day-deadline-control",
+      "high-risk-transfer-review",
+      "audit-evidence-package",
+      "fraud-detect",
+      "expiration-risk",
+      "compliance",
+      "program-risk",
+      "claim-risk-scorer",
+      "compliance-audit-trail"
+    ],
+    "ai": true,
+    "representativeId": "applicant-eligibility",
+    "description": "One assistant for 17 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "applicant-eligibility",
+        "title": "Applicant eligibility",
+        "originalPath": "/features/applicant-eligibility"
+      },
+      {
+        "id": "procurement-evidence",
+        "title": "Procurement evidence",
+        "originalPath": "/features/procurement-evidence"
+      },
+      {
+        "id": "closeout-audit-package",
+        "title": "Closeout audit package",
+        "originalPath": "/features/closeout-audit-package"
+      },
+      {
+        "id": "procurement-compliance-evidence",
+        "title": "Procurement compliance evidence",
+        "originalPath": "/features/procurement-compliance-evidence"
+      },
+      {
+        "id": "award-ceiling-control",
+        "title": "Award ceiling control",
+        "originalPath": "/features/award-ceiling-control"
+      },
+      {
+        "id": "claim-validation",
+        "title": "Claim Validation",
+        "originalPath": "/features/claim-validation"
+      },
+      {
+        "id": "original-charge-validation",
+        "title": "Original charge validation",
+        "originalPath": "/features/original-charge-validation"
+      },
+      {
+        "id": "benefit-to-award-evidence",
+        "title": "Benefit-to-award evidence",
+        "originalPath": "/features/benefit-to-award-evidence"
+      },
+      {
+        "id": "ninety-day-deadline-control",
+        "title": "Ninety-day deadline control",
+        "originalPath": "/features/ninety-day-deadline-control"
+      },
+      {
+        "id": "high-risk-transfer-review",
+        "title": "High-risk transfer review",
+        "originalPath": "/features/high-risk-transfer-review"
+      },
+      {
+        "id": "audit-evidence-package",
+        "title": "Audit evidence package",
+        "originalPath": "/features/audit-evidence-package"
+      },
+      {
+        "id": "fraud-detect",
+        "title": "Fraud Pattern Detection",
+        "originalPath": "/features/fraud-detect"
+      },
+      {
+        "id": "expiration-risk",
+        "title": "Expiration Risk Predictor",
+        "originalPath": "/features/expiration-risk"
+      },
+      {
+        "id": "compliance",
+        "title": "Compliance Checker",
+        "originalPath": "/features/compliance"
+      },
+      {
+        "id": "program-risk",
+        "title": "Program Risk Assessment",
+        "originalPath": "/features/program-risk"
+      },
+      {
+        "id": "claim-risk-scorer",
+        "title": "Claim risk scorer",
+        "originalPath": "/features/claim-risk-scorer"
+      },
+      {
+        "id": "compliance-audit-trail",
+        "title": "Compliance audit trail",
+        "originalPath": "/features/compliance-audit-trail"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "emergency-work-classification",
+      "permanent-work-classification",
+      "award-utilization-and-forecast-analytics",
+      "transfer-reason-classification",
+      "sermon-analyzer",
+      "donation-insights",
+      "facility-utilization-optimizer",
+      "ai-powered-time-matching-engine",
+      "predictive-demand-forecasting",
+      "tools-demand-forecast",
+      "inventory-forecast",
+      "distribution-optimize",
+      "need-predict",
+      "volunteer-optimization",
+      "nutritional-analysis",
+      "donor-retention",
+      "grant-recommend",
+      "event-forecast",
+      "volunteer-matching",
+      "event-roi-simulator-predicting-attendanc",
+      "donor-lifetime-value-prediction-endpo",
+      "volunteer-skill-matching-ai-peermatch",
+      "event-demand-forecasting",
+      "predictions",
+      "gap",
+      "funder-fit-gap-analysis",
+      "predictive",
+      "case-resolution",
+      "donation-forecast",
+      "shift-optimization",
+      "skills-to-opportunity-matching-engine-with-explainability",
+      "tools-recommend-opportunities",
+      "claims-prediction",
+      "coverage-recommendation"
+    ],
+    "ai": true,
+    "representativeId": "emergency-work-classification",
+    "description": "One assistant for 34 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "emergency-work-classification",
+        "title": "Emergency work classification",
+        "originalPath": "/features/emergency-work-classification"
+      },
+      {
+        "id": "permanent-work-classification",
+        "title": "Permanent work classification",
+        "originalPath": "/features/permanent-work-classification"
+      },
+      {
+        "id": "award-utilization-and-forecast-analytics",
+        "title": "Award utilization and forecast analytics",
+        "originalPath": "/features/award-utilization-and-forecast-analytics"
+      },
+      {
+        "id": "transfer-reason-classification",
+        "title": "Transfer reason classification",
+        "originalPath": "/features/transfer-reason-classification"
+      },
+      {
+        "id": "sermon-analyzer",
+        "title": "Sermon Analyzer",
+        "originalPath": "/features/sermon-analyzer"
+      },
+      {
+        "id": "donation-insights",
+        "title": "Donation Insights",
+        "originalPath": "/features/donation-insights"
+      },
+      {
+        "id": "facility-utilization-optimizer",
+        "title": "Facility Utilization Optimizer",
+        "originalPath": "/features/facility-utilization-optimizer"
+      },
+      {
+        "id": "ai-powered-time-matching-engine",
+        "title": "Powered time matching engine",
+        "originalPath": "/features/ai-powered-time-matching-engine"
+      },
+      {
+        "id": "predictive-demand-forecasting",
+        "title": "Predictive demand forecasting",
+        "originalPath": "/features/predictive-demand-forecasting"
+      },
+      {
+        "id": "tools-demand-forecast",
+        "title": "Demand forecast",
+        "originalPath": "/features/tools-demand-forecast"
+      },
+      {
+        "id": "inventory-forecast",
+        "title": "Inventory Forecast",
+        "originalPath": "/features/inventory-forecast"
+      },
+      {
+        "id": "distribution-optimize",
+        "title": "Distribution Optimizer",
+        "originalPath": "/features/distribution-optimize"
+      },
+      {
+        "id": "need-predict",
+        "title": "Proactive Need Prediction",
+        "originalPath": "/features/need-predict"
+      },
+      {
+        "id": "volunteer-optimization",
+        "title": "Volunteer Shift Optimizer",
+        "originalPath": "/features/volunteer-optimization"
+      },
+      {
+        "id": "nutritional-analysis",
+        "title": "Nutritional Balance Analyzer",
+        "originalPath": "/features/nutritional-analysis"
+      },
+      {
+        "id": "donor-retention",
+        "title": "Donor Retention Analyzer",
+        "originalPath": "/features/donor-retention"
+      },
+      {
+        "id": "grant-recommend",
+        "title": "Grant Recommendations",
+        "originalPath": "/features/grant-recommend"
+      },
+      {
+        "id": "event-forecast",
+        "title": "Event Forecast",
+        "originalPath": "/features/event-forecast"
+      },
+      {
+        "id": "volunteer-matching",
+        "title": "Volunteer Matching",
+        "originalPath": "/features/volunteer-matching"
+      },
+      {
+        "id": "event-roi-simulator-predicting-attendanc",
+        "title": "event roi simulator predicting attendanc",
+        "originalPath": "/features/event-roi-simulator-predicting-attendanc"
+      },
+      {
+        "id": "donor-lifetime-value-prediction-endpo",
+        "title": "donor lifetime value prediction endpo",
+        "originalPath": "/features/donor-lifetime-value-prediction-endpo"
+      },
+      {
+        "id": "volunteer-skill-matching-ai-peermatch",
+        "title": "volunteer skill matching ai peermatch",
+        "originalPath": "/features/volunteer-skill-matching-ai-peermatch"
+      },
+      {
+        "id": "event-demand-forecasting",
+        "title": "event demand forecasting",
+        "originalPath": "/features/event-demand-forecasting"
+      },
+      {
+        "id": "predictions",
+        "title": "Predictions",
+        "originalPath": "/features/predictions"
+      },
+      {
+        "id": "gap",
+        "title": "Gap Analysis",
+        "originalPath": "/features/gap"
+      },
+      {
+        "id": "funder-fit-gap-analysis",
+        "title": "Funder fit gap analysis",
+        "originalPath": "/features/funder-fit-gap-analysis"
+      },
+      {
+        "id": "predictive",
+        "title": "AI Predictive",
+        "originalPath": "/features/predictive"
+      },
+      {
+        "id": "case-resolution",
+        "title": "Case Resolution Predict",
+        "originalPath": "/features/case-resolution"
+      },
+      {
+        "id": "donation-forecast",
+        "title": "Donation Forecast",
+        "originalPath": "/features/donation-forecast"
+      },
+      {
+        "id": "shift-optimization",
+        "title": "Shift Optimization",
+        "originalPath": "/features/shift-optimization"
+      },
+      {
+        "id": "skills-to-opportunity-matching-engine-with-explainability",
+        "title": "skills to opportunity matching engine with explainability",
+        "originalPath": "/features/skills-to-opportunity-matching-engine-with-explainability"
+      },
+      {
+        "id": "tools-recommend-opportunities",
+        "title": "Recommend opportunities",
+        "originalPath": "/features/tools-recommend-opportunities"
+      },
+      {
+        "id": "claims-prediction",
+        "title": "Claims prediction",
+        "originalPath": "/features/claims-prediction"
+      },
+      {
+        "id": "coverage-recommendation",
+        "title": "Coverage recommendation",
+        "originalPath": "/features/coverage-recommendation"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "cost-reasonableness-validation",
+      "budget-and-funding-source-control",
+      "cost-allowability-validation",
+      "payroll-and-time-effort-support",
+      "subrecipient-cost-validation",
+      "match-and-cost-share-tracking",
+      "payment-request-package",
+      "cash-receipt-reconciliation",
+      "direct-cost-ingestion",
+      "modified-total-direct-cost-base",
+      "indirect-cost-calculation",
+      "drawdown-reconciliation",
+      "award-budget-registry",
+      "payroll-effort-linkage",
+      "cost-share-treatment",
+      "sponsor-reporting-reconciliation",
+      "budget"
+    ],
+    "ai": true,
+    "representativeId": "cost-reasonableness-validation",
+    "description": "One assistant for 17 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "cost-reasonableness-validation",
+        "title": "Cost reasonableness validation",
+        "originalPath": "/features/cost-reasonableness-validation"
+      },
+      {
+        "id": "budget-and-funding-source-control",
+        "title": "Budget and funding-source control",
+        "originalPath": "/features/budget-and-funding-source-control"
+      },
+      {
+        "id": "cost-allowability-validation",
+        "title": "Cost allowability validation",
+        "originalPath": "/features/cost-allowability-validation"
+      },
+      {
+        "id": "payroll-and-time-effort-support",
+        "title": "Payroll and time-effort support",
+        "originalPath": "/features/payroll-and-time-effort-support"
+      },
+      {
+        "id": "subrecipient-cost-validation",
+        "title": "Subrecipient cost validation",
+        "originalPath": "/features/subrecipient-cost-validation"
+      },
+      {
+        "id": "match-and-cost-share-tracking",
+        "title": "Match and cost-share tracking",
+        "originalPath": "/features/match-and-cost-share-tracking"
+      },
+      {
+        "id": "payment-request-package",
+        "title": "Payment request package",
+        "originalPath": "/features/payment-request-package"
+      },
+      {
+        "id": "cash-receipt-reconciliation",
+        "title": "Cash receipt reconciliation",
+        "originalPath": "/features/cash-receipt-reconciliation"
+      },
+      {
+        "id": "direct-cost-ingestion",
+        "title": "Direct cost ingestion",
+        "originalPath": "/features/direct-cost-ingestion"
+      },
+      {
+        "id": "modified-total-direct-cost-base",
+        "title": "Modified total direct cost base",
+        "originalPath": "/features/modified-total-direct-cost-base"
+      },
+      {
+        "id": "indirect-cost-calculation",
+        "title": "Indirect cost calculation",
+        "originalPath": "/features/indirect-cost-calculation"
+      },
+      {
+        "id": "drawdown-reconciliation",
+        "title": "Drawdown reconciliation",
+        "originalPath": "/features/drawdown-reconciliation"
+      },
+      {
+        "id": "award-budget-registry",
+        "title": "Award budget registry",
+        "originalPath": "/features/award-budget-registry"
+      },
+      {
+        "id": "payroll-effort-linkage",
+        "title": "Payroll effort linkage",
+        "originalPath": "/features/payroll-effort-linkage"
+      },
+      {
+        "id": "cost-share-treatment",
+        "title": "Cost share treatment",
+        "originalPath": "/features/cost-share-treatment"
+      },
+      {
+        "id": "sponsor-reporting-reconciliation",
+        "title": "Sponsor reporting reconciliation",
+        "originalPath": "/features/sponsor-reporting-reconciliation"
+      },
+      {
+        "id": "budget",
+        "title": "Budget Optimizer",
+        "originalPath": "/features/budget"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "results"
+    ],
+    "ai": true,
+    "representativeId": "results",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "results",
+        "title": "AI History",
+        "originalPath": "/features/results"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "outreach-strategy",
+      "tools-reputation-analysis"
+    ],
+    "ai": true,
+    "representativeId": "outreach-strategy",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "outreach-strategy",
+        "title": "Outreach Strategy",
+        "originalPath": "/features/outreach-strategy"
+      },
+      {
+        "id": "tools-reputation-analysis",
+        "title": "Reputation analysis",
+        "originalPath": "/features/tools-reputation-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "dispatch"
+    ],
+    "ai": true,
+    "representativeId": "dispatch",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "dispatch",
+        "title": "Volunteer Dispatch",
+        "originalPath": "/features/dispatch"
+      }
+    ]
+  }
+]

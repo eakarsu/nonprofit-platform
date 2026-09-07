@@ -1,0 +1,43 @@
+{
+  "id": "nonprofit-platform",
+  "title": "Nonprofit, grants & community",
+  "buyer": "Nonprofits, grant teams and community organizations",
+  "sourceCount": 14,
+  "sources": [
+    "ai-fema-public-assistance-reimbursement",
+    "ai-government-grant-drawdown-reimbursement",
+    "ai-government-grant-indirect-cost-recovery",
+    "ai-proposal-grant-development-workspace",
+    "ai-research-grant-cost-transfer-compliance",
+    "AIChurchMosqueTempleManagement",
+    "AICommunityCoopTimeBankPlatform",
+    "AIFoodBankPantryManager",
+    "AIFundraisingCampaignOptimizer",
+    "AIGrantWriter",
+    "AINonprofitFieldOperationsManager",
+    "AIVolunteerMatchingManagement",
+    "NonProfitConnect",
+    "NonProfitShield"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46040,
+  "productName": "Nonprofit, grants Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-fema-public-assistance-reimbursement",
+    "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement",
+    "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery",
+    "/Volumes/external/projects/ai-proposal-grant-development-workspace",
+    "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance",
+    "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+    "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+    "/Volumes/external/projects/AIFoodBankPantryManager",
+    "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+    "/Volumes/external/projects/AIGrantWriter",
+    "/Volumes/external/projects/AINonprofitFieldOperationsManager",
+    "/Volumes/external/projects/AIVolunteerMatchingManagement",
+    "/Volumes/external/projects/NonProfitConnect",
+    "/Volumes/external/projects/NonProfitShield"
+  ]
+}

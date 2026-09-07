@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ai-fema-public-assistance-reimbursement",
+    "name": "Fema public assistance reimbursement",
+    "sourceProject": "ai-fema-public-assistance-reimbursement",
+    "services": []
+  },
+  {
+    "id": "ai-government-grant-drawdown-reimbursement",
+    "name": "Government grant drawdown reimbursement",
+    "sourceProject": "ai-government-grant-drawdown-reimbursement",
+    "services": []
+  },
+  {
+    "id": "ai-government-grant-indirect-cost-recovery",
+    "name": "Government grant indirect cost recovery",
+    "sourceProject": "ai-government-grant-indirect-cost-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-proposal-grant-development-workspace",
+    "name": "Proposal grant development workspace",
+    "sourceProject": "ai-proposal-grant-development-workspace",
+    "services": []
+  },
+  {
+    "id": "ai-research-grant-cost-transfer-compliance",
+    "name": "Research grant cost transfer compliance",
+    "sourceProject": "ai-research-grant-cost-transfer-compliance",
+    "services": []
+  },
+  {
+    "id": "AIChurchMosqueTempleManagement",
+    "name": "Church mosque temple management",
+    "sourceProject": "AIChurchMosqueTempleManagement",
+    "services": []
+  },
+  {
+    "id": "AICommunityCoopTimeBankPlatform",
+    "name": "Community coop time bank platform",
+    "sourceProject": "AICommunityCoopTimeBankPlatform",
+    "services": []
+  },
+  {
+    "id": "AIFoodBankPantryManager",
+    "name": "Food bank pantry manager",
+    "sourceProject": "AIFoodBankPantryManager",
+    "services": []
+  },
+  {
+    "id": "AIFundraisingCampaignOptimizer",
+    "name": "Fundraising campaign optimizer",
+    "sourceProject": "AIFundraisingCampaignOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIGrantWriter",
+    "name": "Grant writer",
+    "sourceProject": "AIGrantWriter",
+    "services": []
+  },
+  {
+    "id": "AINonprofitFieldOperationsManager",
+    "name": "Nonprofit field operations manager",
+    "sourceProject": "AINonprofitFieldOperationsManager",
+    "services": []
+  },
+  {
+    "id": "AIVolunteerMatchingManagement",
+    "name": "Volunteer matching management",
+    "sourceProject": "AIVolunteerMatchingManagement",
+    "services": []
+  },
+  {
+    "id": "NonProfitConnect",
+    "name": "Non profit connect",
+    "sourceProject": "NonProfitConnect",
+    "services": []
+  },
+  {
+    "id": "NonProfitShield",
+    "name": "Non profit shield",
+    "sourceProject": "NonProfitShield",
+    "services": []
+  }
+]

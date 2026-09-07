@@ -1,0 +1,14 @@
+ai-fema-public-assistance-reimbursement
+ai-government-grant-drawdown-reimbursement
+ai-government-grant-indirect-cost-recovery
+ai-proposal-grant-development-workspace
+ai-research-grant-cost-transfer-compliance
+AIChurchMosqueTempleManagement
+AICommunityCoopTimeBankPlatform
+AIFoodBankPantryManager
+AIFundraisingCampaignOptimizer
+AIGrantWriter
+AINonprofitFieldOperationsManager
+AIVolunteerMatchingManagement
+NonProfitConnect
+NonProfitShield

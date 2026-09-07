@@ -1,0 +1,3487 @@
+{
+  "mapped": [
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "disaster-declaration-registry",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "disaster-declaration-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "applicant-eligibility",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "applicant-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "site-damage-inventory",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "site-damage-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "emergency-work-classification",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "emergency-work-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "permanent-work-classification",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "permanent-work-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "force-account-labor-calculation",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "force-account-labor-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "equipment-rate-calculation",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "equipment-rate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "procurement-evidence",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "procurement-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "insurance-reduction-coordination",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "insurance-reduction-coordination",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "cost-reasonableness-validation",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "cost-reasonableness-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "project-worksheet-preparation",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "project-worksheet-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "environmental-historic-preservation",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "environmental-historic-preservation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "documentation-request-workflow",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "documentation-request-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "obligation-draw-tracking",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "obligation-draw-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "closeout-audit-package",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/app.config.mjs",
+      "canonical": "closeout-audit-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "award-and-amendment-library",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "award-and-amendment-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "budget-and-funding-source-control",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "budget-and-funding-source-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "expenditure-ingestion-and-mapping",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "expenditure-ingestion-and-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "cost-allowability-validation",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "cost-allowability-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "payroll-and-time-effort-support",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "payroll-and-time-effort-support",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "procurement-compliance-evidence",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "procurement-compliance-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "subrecipient-cost-validation",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "subrecipient-cost-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "match-and-cost-share-tracking",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "match-and-cost-share-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "program-income-accounting",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "program-income-accounting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "milestone-and-deliverable-tracking",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "milestone-and-deliverable-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "drawdown-calculation",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "drawdown-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "payment-request-package",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "payment-request-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "agency-query-and-correction-workflow",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "agency-query-and-correction-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "cash-receipt-reconciliation",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "cash-receipt-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "award-utilization-and-forecast-analytics",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/app.config.mjs",
+      "canonical": "award-utilization-and-forecast-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "award-agreement-library",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "award-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "indirect-rate-agreement",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "indirect-rate-agreement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "direct-cost-ingestion",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "direct-cost-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "modified-total-direct-cost-base",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "modified-total-direct-cost-base",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "capital-expenditure-exclusion",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "capital-expenditure-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "subaward-threshold-exclusion",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "subaward-threshold-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "participant-support-exclusion",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "participant-support-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "indirect-cost-calculation",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "indirect-cost-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "provisional-to-final-adjustment",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "provisional-to-final-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "carryforward-calculation",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "carryforward-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "award-ceiling-control",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "award-ceiling-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "drawdown-reconciliation",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "drawdown-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "sponsor-adjustment-request",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "sponsor-adjustment-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "cash-recovery-tracking",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "cash-recovery-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "award-rate-analytics",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/app.config.mjs",
+      "canonical": "award-rate-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "/pipeline",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "pipeline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "/authoring",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "authoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "/evidence",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "/submit",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "submit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "Opportunity",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "opportunity",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "Proposal",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "proposal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "RequirementItem",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "requirement-item",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "SourceDocument",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "source-document",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "ClaimValidation",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "claim-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "BudgetLine",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "budget-line",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "ReviewerAssignment",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "reviewer-assignment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "DeadlineItem",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "deadlines",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "DraftSection",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "draft-section",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "MeetingExtract",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "meeting-extract",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "SubmissionPackage",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "submission-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "ComplianceCheck",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "compliance-check",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "go-no-go",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "go-no-go",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "section-draft",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "section-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-proposal-grant-development-workspace",
+      "sourceKey": "claim-audit",
+      "source": "/Volumes/external/projects/ai-proposal-grant-development-workspace/src/config/app.ts",
+      "canonical": "claim-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "award-budget-registry",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "award-budget-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "ledger-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "ledger-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "payroll-effort-linkage",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "payroll-effort-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "original-charge-validation",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "original-charge-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "transfer-reason-classification",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "transfer-reason-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "allocability-assessment",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "allocability-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "benefit-to-award-evidence",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "benefit-to-award-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "ninety-day-deadline-control",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "ninety-day-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "cost-share-treatment",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "cost-share-treatment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "pi-approval-workflow",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "pi-approval-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "high-risk-transfer-review",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "high-risk-transfer-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "journal-entry-generation",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "journal-entry-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "sponsor-reporting-reconciliation",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "sponsor-reporting-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "audit-evidence-package",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "audit-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "department-award-analytics",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/app.config.mjs",
+      "canonical": "department-award-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/sermons",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "sermons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/donations",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "donations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/members",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "members",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/prayers",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "prayers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/facilities",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/announcements",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "announcements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/attendance",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/small-groups",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "small-groups",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/counseling",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "counseling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/outreach",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/ai-results",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/webhooks",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Sermon Analyzer",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "sermon-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Donation Insights",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "donation-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Prayer Guidance",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "prayer-guidance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Member Engagement",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "member-engagement",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Event Planner",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "event-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Outreach Strategy",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "outreach-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Sermon QA Bot",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "sermon-qa-bot",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Volunteer Burnout Alert",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "volunteer-burnout-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Prayer Categorization",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "prayer-categorization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "Facility Utilization Optimizer",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/AITools.jsx",
+      "canonical": "facility-utilization-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/sermons",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "sermons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/donations",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "donations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/members",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "members",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/prayers",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "prayers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/facilities",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "facilities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/attendance",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "sourceKey": "/outreach",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/pages/Dashboard.jsx",
+      "canonical": "outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "cf/ai-powered-time-matching-engine",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "ai-powered-time-matching-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "cf/reputation-trustworthiness-scoring",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "reputation-trustworthiness-scoring",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "cf/predictive-demand-forecasting",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "predictive-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "cf/multi-modal-intake-voice-photo",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "multi-modal-intake-voice-photo",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "cf/blockchain-backed-ledger",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "blockchain-backed-ledger",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "cf/peer-review-certification",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "peer-review-certification",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/skill-match",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-skill-match",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/credit-valuation",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-credit-valuation",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/onboarding-interview",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-onboarding-interview",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/dispute-mediation",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-dispute-mediation",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/reputation-analysis",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-reputation-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/demand-forecast",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-demand-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/governance-proposal",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-governance-proposal",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/skill-gap",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-skill-gap",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/listing-from-description",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-listing-from-description",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/impact-report",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-impact-report",
+      "kind": "route"
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "sourceKey": "tools/reciprocity-balance",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "canonical": "tools-reciprocity-balance",
+      "kind": "route"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/visits",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "visits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/distributions",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "distributions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/donors",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "donors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/food-drives",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "food-drives",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/delivery-routes",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "delivery-routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/warehouses",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "warehouses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/partners",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "partners",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/grants",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/donations",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "donations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/fleet",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "fleet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/ai-advanced-tools",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "advanced-tools",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "inventory-forecast",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AIAdvancedTools.jsx",
+      "canonical": "inventory-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "distribution-optimize",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AIAdvancedTools.jsx",
+      "canonical": "distribution-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "fraud-detect",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AIAdvancedTools.jsx",
+      "canonical": "fraud-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "need-predict",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AIAdvancedTools.jsx",
+      "canonical": "need-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "donation-appeal",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "donation-appeal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "volunteer-optimization",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "volunteer-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "nutritional-analysis",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "nutritional-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "expiration-risk",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "expiration-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "grant-assistant",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "grant-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "community-assessment",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "community-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "food-package-builder",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "food-package-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "donor-retention",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/AITools.jsx",
+      "canonical": "donor-retention",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/distributions",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "distributions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/donors",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "donors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/warehouses",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "warehouses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/partners",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "partners",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/grants",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/donations",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "donations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "/fleet",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "fleet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "sourceKey": "pantry-allocation",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "canonical": "pantry-allocation",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/campaigns",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/donors",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "donors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/goals",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "goals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/emails",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "emails",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/social",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "social",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/outreach",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "outreach",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/thankyou",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "thankyou",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/calendar",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/grants",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/budget",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "budget",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/impact",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/abtesting",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "abtesting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/backlog",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "backlog",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/donor-fatigue-throttle",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "canonical": "donor-fatigue-throttle",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "donor-ltv",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/AIPredictions.jsx",
+      "canonical": "donor-ltv",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "grant-recommend",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/AIPredictions.jsx",
+      "canonical": "grant-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "event-forecast",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/AIPredictions.jsx",
+      "canonical": "event-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "major-donor-cultivation",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/AIPredictions.jsx",
+      "canonical": "major-donor-cultivation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "volunteer-matching",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/AIPredictions.jsx",
+      "canonical": "volunteer-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/emails",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "emails",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "/grants",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "cf-agentic-grant-prospecting-scanning-grant",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "agentic-grant-prospecting-scanning-grant",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "cf-donor-engagement-scoring-with-real-time",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "donor-engagement-scoring-with-real-time",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "cf-event-roi-simulator-predicting-attendanc",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "event-roi-simulator-predicting-attendanc",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "cf-multi-stakeholder-survey-synthesis-colle",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "multi-stakeholder-survey-synthesis-colle",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "cf-peer-to-peer-fundraising-team-builder",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "peer-to-peer-fundraising-team-builder",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "cf-government-procurement-advisor-scanning-",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "government-procurement-advisor-scanning",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-donor-lifetime-value-prediction-endpo",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "donor-lifetime-value-prediction-endpo",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-major-donor-cultivation-plan-generato",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "major-donor-cultivation-plan-generato",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-volunteer-skill-matching-ai-peermatch",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "volunteer-skill-matching-ai-peermatch",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-event-demand-forecasting",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "event-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-limited-notifications-no-dedicated-modul",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "limited-notifications-no-dedicated-modul",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-webhook-dispatch-for-donor-events",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "webhook-dispatch-for-donor-events",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-file-upload-pipeline-for-donor",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "file-upload-pipeline-for-donor",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-payment-processing-surfaced-beyond-st",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "payment-processing-surfaced-beyond-st",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "gap-no-real-time-donor-activity-feed",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "real-time-donor-activity-feed",
+      "kind": "route"
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "sourceKey": "ai-predictions",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "canonical": "predictions",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/organizations",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "organizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/grants",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/proposals",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/budgets",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/impact-metrics",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "impact-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/deadlines",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "deadlines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/funders",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "funders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "outline",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "outline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "gap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "impact",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "funder",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AdvancedAITools.js",
+      "canonical": "funder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "generate",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "generate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "improve",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "improve",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "summary",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "match",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "review",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "budget",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "budget",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "impact",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "impact-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "deadline",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "deadlines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "funder",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/pages/AITools.js",
+      "canonical": "funders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "ai-portfolio",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "portfolio",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "funder-fit-gap-analysis",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "funder-fit-gap-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "cf-agentic-funder-discovery-scanning-founda",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "agentic-funder-discovery-scanning-founda",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "cf-proposal-impact-simulator-modeling-lives",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "proposal-impact-simulator-modeling-lives",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "cf-peer-proposal-analyzer-extracting-succes",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "peer-proposal-analyzer-extracting-succes",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "cf-multi-funder-strategy-planner-diversifyi",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "multi-funder-strategy-planner-diversifyi",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "cf-compliance-audit-prep-co-pilot-generatin",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "compliance-audit-prep-co-pilot-generatin",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "cf-funder-relationship-crm-with-ai-recommen",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "funder-relationship-crm-with-ai-recommen",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-real-time-funder-deadline-change",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "real-time-funder-deadline-change",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-proposal-style-consistency-enforcer-a",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "proposal-style-consistency-enforcer-a",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-rejection-reason-classifier-for-past",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "rejection-reason-classifier-for-past",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-backend-is-monolithic-no-routes-folder",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "backend-is-monolithic-no-routes-folder",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-webhook-receivers-for-grant-portal",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "webhook-receivers-for-grant-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-real-time-collaboration-on-proposals",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "real-time-collaboration-on-proposals",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-file-upload-pipeline-for-supporting",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "file-upload-pipeline-for-supporting",
+      "kind": "route"
+    },
+    {
+      "project": "AIGrantWriter",
+      "sourceKey": "gap-no-e-signature-integration-for-proposal",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "canonical": "e-signature-integration-for-proposal",
+      "kind": "route"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/programs",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "programs",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/volunteers",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "volunteers",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/shifts",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/cases",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/donations",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "donations",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/impact-metrics",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "impact-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/grant-tracking",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "grant-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/ai-predictive",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "predictive",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/ai-backlog",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "backlog",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/cf-agentic-volunteer-dispatch",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "agentic-volunteer-dispatch",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/cf-rag-over-organizational-playbooks",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "rag-over-organizational-playbooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/cf-donor-engagement-scoring",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "donor-engagement-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/cf-field-photo-upload-tagging",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "field-photo-upload-tagging",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/cf-compliance-audit-agent",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "compliance-audit-agent",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-cases-exist-without-case",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "cases-exist-without-case",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-donations-tracked-but-no-donation",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "donations-tracked-but-no-donation",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-programs-without-program",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "programs-without-program",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-shifts-without-shift",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "shifts-without-shift",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-no-multi",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "multi",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-no-sms-bulk-communication-or-notification-layer",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "sms-bulk-communication-or-notification-layer",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-no-reporting-export-pdf-csv-for-board-meetings-and",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "reporting-export-pdf-csv-for-board-meetings-and",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-no-webhooks-or-third",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "webhooks-or-third",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-no-file-document-storage-for-case-attachments",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "file-document-storage-for-case-attachments",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "/gap-no-rbac-beyond-basic-auth-no-role-separation",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "rbac-beyond-basic-auth-no-role-separation",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "translate",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIBacklogPage.js",
+      "canonical": "translate",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "sms",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIBacklogPage.js",
+      "canonical": "sms",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIBacklogPage.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIBacklogPage.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "photo",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIBacklogPage.js",
+      "canonical": "photo",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "triage",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "canonical": "triage",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "dispatch",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "canonical": "dispatch",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "grant",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "canonical": "grant",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "impact",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "canonical": "tools-impact-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "needs",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "canonical": "needs",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "resource",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "canonical": "resource",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "case-resolution",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "case-resolution",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "donation-forecast",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "donation-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "shift-optimization",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "shift-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "sourceKey": "program-risk",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPredictivePage.js",
+      "canonical": "program-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "cf-skills-to-opportunity-matching-engine-with-explainability",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "skills-to-opportunity-matching-engine-with-explainability",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "cf-impact-report-auto-generation-for-grant-submissions",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "impact-report-auto-generation-for-grant-submissions",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "cf-volunteer-hour-tracking-with-verification-workflow",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "volunteer-hour-tracking-with-verification-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "cf-background-check-integrations-sterling-checkr",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "background-check-integrations-sterling-checkr",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "cf-mobile-companion-app-for-shift-check-in",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "mobile-companion-app-for-shift-check-in",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-vision-based-volunteer-id-verification",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "vision-based-volunteer-id-verification",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-conversational-onboarding-bot-for-volunteers",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "conversational-onboarding-bot-for-volunteers",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-volunteer-profile-crud-backend-only-via-ai",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "volunteer-profile-crud-backend-only-via-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-opportunity-crud-backend",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "opportunity-crud-backend",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-shift-schedule-database-tables",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "shift-schedule-database-tables",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-notifications-subsystem-sms-email-reminders",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "notifications-subsystem-sms-email-reminders",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-reporting-export-endpoints",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "reporting-export-endpoints",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-background-check-compliance-tracking",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "background-check-compliance-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-donor-funder-reporting-integration",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "donor-funder-reporting-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "gap-no-multi-organization-tenancy",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "multi-organization-tenancy",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/match-volunteers",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-match-volunteers",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/recommend-opportunities",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-recommend-opportunities",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/skills-extract",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-skills-extract",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/opportunity-description",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-opportunity-description",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/shift-schedule",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-shift-schedule",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/impact-report",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-impact-report",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/retention-risk",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-retention-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/training-plan",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-training-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/feedback-summary",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-feedback-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/recruitment-message",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-recruitment-message",
+      "kind": "route"
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "sourceKey": "tools/recognition-note",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "canonical": "tools-recognition-note",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gallery",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "gallery",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "projects",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "matters",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "applications",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "applications",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "investments",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "investments",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "messaging",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "messaging",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "bookmarks",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "bookmarks",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "activity",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "leaderboard",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "leaderboard",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/donation-matching",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "donation-matching",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/grant-proposal-writer",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "grant-proposal-writer",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/donor-segmentation",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "donor-segmentation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/content-moderation",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "content-moderation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/payment-processing",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "payment-processing",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/recurring-donations",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "recurring-donations",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/volunteer-management",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "volunteer-management",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/grant-doc-versioning",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "grant-doc-versioning",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/tax-receipt-generation",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "tax-receipt-generation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap/mobile-app-stub",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "mobile-app-stub",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-donation-matching",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "donation-matching",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-grant-proposal-writer",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "grant-proposal-writer",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-donor-segmentation",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "donor-segmentation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-content-moderation",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "content-moderation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-payment-processing",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "payment-processing",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-recurring-donations",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "recurring-donations",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-volunteer-management",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "volunteer-management",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-grant-doc-versioning",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "grant-doc-versioning",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-tax-receipt-generation",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "tax-receipt-generation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-mobile-app-stub",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "mobile-app-stub",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitConnect",
+      "sourceKey": "gap-features/_audit",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "calculator",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "calculator",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "coverage",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "coverage",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "financial-reports",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "financial-reports",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "consultation",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "consultation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "enrollment",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "enrollment",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "claims",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claims",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "policies",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "policies",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "submit-claim",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "submit-claim",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "payment",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "payment",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/claims-prediction",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claims-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/coverage-recommendation",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "coverage-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/claim-status-chatbot",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claim-status-chatbot",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/claim-risk-scorer",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claim-risk-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/policy-doc-management",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "policy-doc-management",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/multi-policy-holder",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "multi-policy-holder",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/renewal-tracking",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "renewal-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/compliance-audit-trail",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "compliance-audit-trail",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/provider-directory",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "provider-directory",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap/broker-portal",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "broker-portal",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-claims-prediction",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claims-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-coverage-recommendation",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "coverage-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-claim-status-chatbot",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claim-status-chatbot",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-claim-risk-scorer",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "claim-risk-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-policy-doc-management",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "policy-doc-management",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-multi-policy-holder",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "multi-policy-holder",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-renewal-tracking",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "renewal-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-compliance-audit-trail",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "compliance-audit-trail",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-provider-directory",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "provider-directory",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-broker-portal",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "broker-portal",
+      "kind": "route"
+    },
+    {
+      "project": "NonProfitShield",
+      "sourceKey": "gap-features/_audit",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "canonical": "audit",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-fema-public-assistance-reimbursement",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-fema-public-assistance-reimbursement/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-government-grant-drawdown-reimbursement",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-government-grant-drawdown-reimbursement/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-government-grant-indirect-cost-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-government-grant-indirect-cost-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-research-grant-cost-transfer-compliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-research-grant-cost-transfer-compliance/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChurchMosqueTempleManagement",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIChurchMosqueTempleManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "register",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICommunityCoopTimeBankPlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICommunityCoopTimeBankPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIFoodBankPantryManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFoodBankPantryManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "/ai-center",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer/client/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFundraisingCampaignOptimizer",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIFundraisingCampaignOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "/advanced-ai",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIGrantWriter/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIGrantWriter",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGrantWriter",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "/ai",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "history",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager/frontend/src/pages/AIPage.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AINonprofitFieldOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AINonprofitFieldOperationsManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "/cf-retention-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVolunteerMatchingManagement",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIVolunteerMatchingManagement",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "login",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "/projects/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "profile",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitConnect",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/NonProfitConnect",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "register",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "login",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "about",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "profile",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "NonProfitShield",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/NonProfitShield",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "disaster-declaration-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "applicant-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "site-damage-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "emergency-work-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "permanent-work-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "force-account-labor-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "equipment-rate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "procurement-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "insurance-reduction-coordination",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cost-reasonableness-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "project-worksheet-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "environmental-historic-preservation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "documentation-request-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "obligation-draw-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "closeout-audit-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "award-and-amendment-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "budget-and-funding-source-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expenditure-ingestion-and-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cost-allowability-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-and-time-effort-support",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "procurement-compliance-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subrecipient-cost-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "match-and-cost-share-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-income-accounting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "milestone-and-deliverable-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "drawdown-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-request-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-query-and-correction-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-receipt-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "award-utilization-and-forecast-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "award-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "indirect-rate-agreement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "direct-cost-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "modified-total-direct-cost-base",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "capital-expenditure-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subaward-threshold-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-support-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "indirect-cost-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provisional-to-final-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carryforward-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "award-ceiling-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "drawdown-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sponsor-adjustment-request",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-recovery-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "award-rate-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "award-budget-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ledger-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-effort-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "original-charge-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transfer-reason-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "allocability-assessment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "benefit-to-award-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ninety-day-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cost-share-treatment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pi-approval-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "high-risk-transfer-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "journal-entry-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sponsor-reporting-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audit-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "department-award-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "app": "nonprofit-platform",
+  "features": 311,
+  "sourceApps": 14,
+  "calculatorEngines": 0,
+  "registryHash": "3616011160d40fa1595e0317a93fc458267fd045f2af47bbf59fad41a0e84053",
+  "builtAt": "2026-09-07T22:05:57.310Z",
+  "status": "built"
+}
